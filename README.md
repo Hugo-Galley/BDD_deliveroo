@@ -32,7 +32,7 @@ Le MLD traduit le MCD en un schéma relationnel précis, définissant les tables
 
 # Crédits
 
-Le projet à put etre mener à bien grâce à la participation de :
+Le projet a pu être mené à bien grâce à la participation de :
 
 ## Contributeurs
 
