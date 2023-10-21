@@ -4,7 +4,7 @@ Ce dépôt GitHub contient les documents et le code source associés au projet d
 
 ## Initialisation du Projet
 
-Si vous possedez deja une base de données appelé projet_tutkinnon remplacer les premieres lignes du code par:
+Si vous possédez déjà une base de données appelée 'projet_tutkinnon', remplacez les premières lignes du code par :
 
 
 ```sql
@@ -43,5 +43,5 @@ Le projet à put etre mener à bien grâce à la participation de :
 
 ## Remerciements spéciaux
 
-- [Alan Busi](https://github.com/nom-de-la-personne-ou-organisation](https://github.com/AllanBUSI)) - Pour ses conseils ou ses ressources.
+- [Alan Busi](https://github.com/nom-de-la-personne-ou-organisation](https://github.com/AllanBUSI)) - Pour ses conseils et ses ressources.
 
