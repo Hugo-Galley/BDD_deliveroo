@@ -39,7 +39,7 @@ Le projet à put etre mener à bien grâce à la participation de :
 - [Hugo Galley](https://github.com/Hugo-Galley)
 - Ioan Domingues
 - Justine Guy
-- Jeremy Besson
+- Jéremy Besson
 
 ## Remerciements spéciaux
 
