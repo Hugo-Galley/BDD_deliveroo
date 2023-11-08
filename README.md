@@ -37,7 +37,7 @@ Le projet a pu être mené à bien grâce à la participation de :
 ## Contributeurs
 
 - [Hugo Galley](https://github.com/Hugo-Galley)
-- Ioan Domingues
+- [Ioan Domingues](https://github.com/IoanDomingues)
 - Justine Guy
 - Jéremy Besson
 
