@@ -43,5 +43,5 @@ Le projet a pu être mené à bien grâce à la participation de :
 
 ## Remerciements spéciaux
 
-- [Alan Busi](https://github.com/nom-de-la-personne-ou-organisation](https://github.com/AllanBUSI)) - Pour ses conseils et ses ressources.
+- [Alan Busi](https://github.com/AllanBUSI) - Pour ses conseils et ses ressources.
 
